@@ -1,0 +1,15 @@
+{
+  "name": "Альфа-КПД",
+  "short_name": "Альфа-КПД",
+  "start_url": "main.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#1a4d8c",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+} 
